@@ -4,7 +4,7 @@ from discord.ext.commands import bot
 import os
 import sys, traceback
 
-token = 'Njg4MDA3MDU2MzkyOTc4NDQz.XnNi8w.Fp719IprF-jNeeaN2WV-1_3vaAQ'
+token = 'Your Token Here
 
 bot = commands.Bot(command_prefix="!")
 
